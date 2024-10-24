@@ -1,0 +1,103 @@
+.intro img{
+    width: 800px;
+    height: 650px;
+    float:left;
+    border: 10px rgba(211, 94, 78, 0.788);
+    margin-right: 20px;
+}
+
+.cs img{
+    width:800px;
+    float:right;
+    border: 10px rgb(45, 109, 146);
+    margin-left: 20px;
+}
+
+.origin img{
+    width:800px;
+    float:right;
+    border: 10px pink;
+    margin-left: 20px;
+}
+
+.TARS img{
+    width:500px;
+    float:left;
+    border: 10px;
+    margin-right: 40px;
+}
+
+.FF img{
+    width:400px;
+    float:right;
+    border:10px;
+    margin-left: 40px;
+}
+
+p{
+    font-size: 20pt;
+    color: rgb(129, 114, 40)
+}
+
+a{
+    color: rgb(52, 120, 175);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(240, 193, 200);
+    width: 75%;
+    margin:auto
+}
+
+li{
+    font-size: 20pt;
+    color: rgb(145, 113, 73)
+}
+
+video{
+    float:right
+}
+
+h1{
+    font-size: 80px;
+    font-family: 'preconnect'
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #c5564e;
+  }
+  
+  header li {
+    float: left;
+  }
+  
+  header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  header li a:hover {
+    background-color: #111;
+  }
+
+  .sidebar{
+    width:300px;
+    border: 5px solid rgb(94, 25, 57);
+    float:right;
+    padding-left:5px;
+    padding-right:5px;
+  }
+   
+  .sidebar p{
+    color:rgb(37, 78, 29);
+    font-size:smaller;
+  }
+  
